@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**varshith-uppalapati/varshith-uppalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Varshith Varma**, a B.Tech student in **Computer Science Engineering (Generative AI)**.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Programming in **Java and Python**
+- 🚀 Practicing **problem solving and competitive programming**
+- 📚 Interested in **AI, software development, and coding**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- Java
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+### 📈 Goals
+- Improve problem solving skills
+- Build useful projects
+- Contribute to open source
+
+### 📫 Connect with me
+- GitHub: https://github.com/varshith-uppalapati
